@@ -1,302 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Combined feed</title>
+        <title>MSBSOUND ─ Album Special</title>
         <link>undefined</link>
         <description>undefined</description>
         <lastBuildDate>Sun, 01 Aug 2021 20:40:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[이달의 소녀] "PTT (Paint The Town)" Dance Practice Video (Star Board)]]></title>
-            <link>https://vlive.tv/post/1-24391510</link>
-            <guid>https://vlive.tv/post/1-24391510</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210729_234/1627543168750DJ1DE_JPEG/upload_7162288467182473540ec793b-2d16-4016-8041-d7a618a51f83.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LOONA] Briefly to see ORBIT💕 (Star Board)]]></title>
-            <link>https://vlive.tv/post/1-24255459</link>
-            <guid>https://vlive.tv/post/1-24255459</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210722_144/1626940819934G0WM6_JPEG/139816348861078929fb1a10c5-3ec2-4962-a5e9-96870fd3b8f7.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Good Night With DJ Ha💚 (Star Board)]]></title>
-            <link>https://vlive.tv/post/0-24222068</link>
-            <guid>https://vlive.tv/post/0-24222068</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210720_292/1626786003249oBYD9_JPEG/1395743742395846555d3a798d-5981-44c5-b5b8-57e4498fc37a.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Go Won was a particularly introverted kid.. (Star Board)]]></title>
-            <link>https://vlive.tv/post/0-24220281</link>
-            <guid>https://vlive.tv/post/0-24220281</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ORBIT ㅠㅜㅠㅜㅜㅜㅜ (Star Board)]]></title>
-            <link>https://vlive.tv/post/1-24223607</link>
-            <guid>https://vlive.tv/post/1-24223607</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Oh what? It really disconnected (Star Board)]]></title>
-            <link>https://vlive.tv/post/0-24207602</link>
-            <guid>https://vlive.tv/post/0-24207602</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ORBIT, you can't sleep (Star Board)]]></title>
-            <link>https://vlive.tv/post/0-24205738</link>
-            <guid>https://vlive.tv/post/0-24205738</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[vYves LIVEv (Star Board)]]></title>
-            <link>https://vlive.tv/post/1-24207828</link>
-            <guid>https://vlive.tv/post/1-24207828</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Come Back Again (Star Board)]]></title>
-            <link>https://vlive.tv/post/1-24209986</link>
-            <guid>https://vlive.tv/post/1-24209986</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hurry Up And Come In🤤💙 (Star Board)]]></title>
-            <link>https://vlive.tv/post/1-24205863</link>
-            <guid>https://vlive.tv/post/1-24205863</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Sorry It Broke Off (Star Board)]]></title>
-            <link>https://vlive.tv/post/1-24194280</link>
-            <guid>https://vlive.tv/post/1-24194280</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Sunset Radio 🌚 (Star Board)]]></title>
-            <link>https://vlive.tv/post/1-24193390</link>
-            <guid>https://vlive.tv/post/1-24193390</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Let's Do What You Want To Do 🥰 (Star Board)]]></title>
-            <link>https://vlive.tv/post/0-24187420</link>
-            <guid>https://vlive.tv/post/0-24187420</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ReallyㅠㅠWrapping Up!! Orbit ㅠㅠ (Star Board)]]></title>
-            <link>https://vlive.tv/post/1-24178416</link>
-            <guid>https://vlive.tv/post/1-24178416</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Againㅠㅠㅠ I'm sorry, Orbit ㅠ (Star Board)]]></title>
-            <link>https://vlive.tv/post/1-24176725</link>
-            <guid>https://vlive.tv/post/1-24176725</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🐰BunnyJini Talking Rabbout🥕 (Star Board)]]></title>
-            <link>https://vlive.tv/post/1-24176254</link>
-            <guid>https://vlive.tv/post/1-24176254</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Again…. (Star Board)]]></title>
-            <link>https://vlive.tv/post/0-24170739</link>
-            <guid>https://vlive.tv/post/0-24170739</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Come here if you want to chat with me🧡🐥👋🏻 (Star Board)]]></title>
-            <link>https://vlive.tv/post/0-24169742</link>
-            <guid>https://vlive.tv/post/0-24169742</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[LOONA] "PTT (Paint The Town)" MV Making Film (Star Board)]]></title>
-            <link>https://vlive.tv/post/0-24148626</link>
-            <guid>https://vlive.tv/post/0-24148626</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hi💋 (Star Board)]]></title>
-            <link>https://vlive.tv/post/1-24156371</link>
-            <guid>https://vlive.tv/post/1-24156371</guid>
-            <pubDate>Sun, 01 Aug 2021 14:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 조아하디랑 좋은밤💚 (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210720_165/16267662942238toPJ_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 고원이 왔어요🌼 (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210720_18/1626766225664ik1ME_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 첫 삐서재📚 (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210720_99/16267661728706SGdT_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 오빛이 희진이를 부르잖아♡ (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 월요일 마무리는 나랑 (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] v이브라이브v (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 오빛들! 언능언능!🥴💙 (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 심야 라디오 🌚 (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 오빛들 너무많이 좋아해요🌈당장 드루와 드루와💋❤‍🔥❤‍🔥❤‍🔥‼‼‼ (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 🐰바니지니 토끼잉어바웃🥕 (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 나랑 수다 떨 사람 여기 여기 붙어라👋🏻🐥🧡 (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 다음은 나💋 (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 💜생존신고💜 (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 츄만 보면 웃음이 나와 (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 (LOONA) [&] Concept Photo "LOONA" (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 (LOONA) [&] Concept  Photo - Kim Lip (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 (LOONA) [&] Concept  Photo - YeoJin (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 (LOONA) [&] Concept  Photo "ViVi" (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 (LOONA) [&] Concept  Photo "Go Won" (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 (LOONA) [&] Concept  Photo "Chuu" (Notice)]]></title>
-            <link>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</link>
-            <guid>https://vlive.tv/channel/E1F3A7/member/7d5056e58ebb147c5e2ddfca367c3e93</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_이달의 소녀(LOONA)]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[이달의 소녀]
 오빛이
-희진이를 부르잖아♡ (MSBSOUND ─ Album Special)]]></title>
+희진이를 부르잖아♡]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32003896&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32003896&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -326,7 +40,7 @@
         </item>
         <item>
             <title><![CDATA[[이달의 소녀]
-츄만 보면 웃음이 나와 (MSBSOUND ─ Album Special)]]></title>
+츄만 보면 웃음이 나와]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=31889673&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31889673&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -356,7 +70,7 @@
         <item>
             <title><![CDATA[[이달의 소녀]
 Chuu와 함께
-Be Happy! (MSBSOUND ─ Album Special)]]></title>
+Be Happy!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=31548911&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31548911&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -387,7 +101,7 @@ Be Happy!</span>
         <item>
             <title><![CDATA[[이달의 소녀]
 뭘 좋아할지 몰라서
-다 준비했달소 (MSBSOUND ─ Album Special)]]></title>
+다 준비했달소]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=31390321&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31390321&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -417,7 +131,7 @@ Be Happy!</span>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀]
-Shining Days with LOONA (MSBSOUND ─ Album Special)]]></title>
+Shining Days with LOONA]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=31334555&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31334555&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -447,7 +161,7 @@ Shining Days with LOONA</span>
         <item>
             <title><![CDATA[[이달의 소녀]
 봄바람 타고 돌아온
-봄의 요정들 (MSBSOUND ─ Album Special)]]></title>
+봄의 요정들]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=31183943&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31183943&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -477,7 +191,7 @@ Shining Days with LOONA</span>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀]
-벚꽃보다 이달의 소녀 (MSBSOUND ─ Album Special)]]></title>
+벚꽃보다 이달의 소녀]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=31036746&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31036746&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -506,7 +220,7 @@ Shining Days with LOONA</span>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀]
-립이의 첫 번째 롤 (MSBSOUND ─ Album Special)]]></title>
+립이의 첫 번째 롤]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=30968797&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30968797&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -535,7 +249,7 @@ Shining Days with LOONA</span>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀]
-Chuu가 좋아서 그래♡ (MSBSOUND ─ Album Special)]]></title>
+Chuu가 좋아서 그래♡]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=30693922&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30693922&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -565,7 +279,7 @@ Chuu가 좋아서 그래♡</span>
         <item>
             <title><![CDATA[[이달의 소녀]
 1월 1일과 잘 어울리는
-첫 번째 소녀 (MSBSOUND ─ Album Special)]]></title>
+첫 번째 소녀]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=30370162&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30370162&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -596,7 +310,7 @@ Chuu가 좋아서 그래♡</span>
         <item>
             <title><![CDATA[[이달의 소녀]
 오늘부터 오빛과 츄는
-달리는 사이! (MSBSOUND ─ Album Special)]]></title>
+달리는 사이!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=30342831&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30342831&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -627,7 +341,7 @@ Chuu가 좋아서 그래♡</span>
         <item>
             <title><![CDATA[[이달의 소녀]
 단군 소녀,
-청순함의 새 지평을 열다! (MSBSOUND ─ Album Special)]]></title>
+청순함의 새 지평을 열다!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=29832173&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29832173&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -657,7 +371,7 @@ Chuu가 좋아서 그래♡</span>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀]
-Into the LOOΠΔtheworld (MSBSOUND ─ Album Special)]]></title>
+Into the LOOΠΔtheworld]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=29612261&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29612261&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -687,7 +401,7 @@ Into the LOOΠΔtheworld</span>
         <item>
             <title><![CDATA[[이달의 소녀]
 소녀들의 색으로
-물들인 하루 (MSBSOUND ─ Album Special)]]></title>
+물들인 하루]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=28972774&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28972774&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -718,7 +432,7 @@ Into the LOOΠΔtheworld</span>
         <item>
             <title><![CDATA[[이달의 소녀]
 OST 요정
-출사표 던졌Chuu~♡ (MSBSOUND ─ Album Special)]]></title>
+출사표 던졌Chuu~♡]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=28944032&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28944032&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -748,7 +462,7 @@ OST 요정
         </item>
         <item>
             <title><![CDATA[[이달의 소녀]
-청순+상큼=이달의 소녀 (MSBSOUND ─ Album Special)]]></title>
+청순+상큼=이달의 소녀]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=28404422&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28404422&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -778,7 +492,7 @@ OST 요정
         <item>
             <title><![CDATA[[이달의 소녀]
 이달의 소녀 표
-사랑의 배터리 (MSBSOUND ─ Album Special)]]></title>
+사랑의 배터리]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=28400905&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28400905&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -808,7 +522,7 @@ OST 요정
         </item>
         <item>
             <title><![CDATA[[이달의 소녀]
-요정들의 봄나들이 (MSBSOUND ─ Album Special)]]></title>
+요정들의 봄나들이]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=28383214&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28383214&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -838,7 +552,7 @@ OST 요정
         <item>
             <title><![CDATA[[이달의 소녀]
 희진이 미모는
-연중무휴 열일 중 (MSBSOUND ─ Album Special)]]></title>
+연중무휴 열일 중]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=28155723&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28155723&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
@@ -869,7 +583,7 @@ OST 요정
         <item>
             <title><![CDATA[[이달의 소녀]
 오늘부터 봄은 영어로
-LOONA (MSBSOUND ─ Album Special)]]></title>
+LOONA]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=28134464&amp;memberNo=39258591&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28134464&amp;memberNo=39258591&amp;navigationType=push</guid>
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
