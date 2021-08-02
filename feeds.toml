@@ -5,8 +5,8 @@ entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
 linkSelector = "a[data-click]"
 imageSelector = "span[class^='covered_image']"
-waitUntil = "networkidle"
 contentSelector = ".writer--pwvK2"
+waitUntil = "networkidle"
 
 [vlive_post]
 title = "Notice"
@@ -15,8 +15,8 @@ entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
 linkSelector = "a[class^='post_area']"
 imageSelector = "span[class^='covered_image']"
-waitUntil = "networkidle"
 contentSelector = ".writer--pwvK2"
+waitUntil = "networkidle"
 
 [bbc_naverpost]
 title = "Block Berry Creative ─ LOONA"
