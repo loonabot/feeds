@@ -80,3 +80,30 @@ titleSelector = "span[class='txt_detail']"
 linkSelector = "a[class='link_cafe make-list-uri #article_list']"
 imageSelector = "a img[class='article_thumb']"
 contentSelector = "span[class='created_at']"
+
+[daumcafe_loonalog]
+title = "LOOΠΔ LOG"
+url = "https://m.cafe.daum.net/loonatheworld/IGsg"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "a[class='link_cafe make-list-uri #article_list']"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
+
+[daumcafe_loonatvprequel]
+title = "LOOΠΔ TV Prequel"
+url = "https://m.cafe.daum.net/loonatheworld/HZtw"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "a[class='link_cafe make-list-uri #article_list']"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
+
+[daumcafe_toorbit]
+title = "To. Orbit"
+url = "https://m.cafe.daum.net/loonatheworld/F5df"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "a[class='link_cafe make-list-uri #article_list']"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
