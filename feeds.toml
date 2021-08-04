@@ -26,3 +26,14 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+
+
+[daumcafe_offline]
+title = "공방공지"
+url = "https://m.cafe.daum.net/loonatheworld/F6Fq"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "link_cafe make-list-uri #article_list"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
+waitUntil = "networkidle"
