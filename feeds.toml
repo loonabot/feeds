@@ -5,7 +5,7 @@ entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
 linkSelector = "a[data-click]"
 imageSelector = "span[class^='covered_image']"
-contentSelector = ".writer--pwvK2"
+contentSelector = "em[class^='writer_area']"
 waitUntil = "networkidle"
 
 [vlive_post]
@@ -15,7 +15,7 @@ entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
 linkSelector = "a[class^='post_area']"
 imageSelector = "span[class^='covered_image']"
-contentSelector = ".writer--pwvK2"
+contentSelector = "em[class^='writer_area']"
 waitUntil = "networkidle"
 
 [bbc_naverpost]
