@@ -27,6 +27,14 @@ linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
 
+[daumcafe_notice]
+title = "공지사항"
+url = "https://m.cafe.daum.net/loonatheworld/F5dA"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "link_cafe make-list-uri #article_list"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
 
 [daumcafe_offline]
 title = "공방공지"
@@ -36,4 +44,3 @@ titleSelector = "span[class='txt_detail']"
 linkSelector = "link_cafe make-list-uri #article_list"
 imageSelector = "a img[class='article_thumb']"
 contentSelector = "span[class='created_at']"
-waitUntil = "networkidle"
