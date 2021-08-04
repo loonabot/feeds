@@ -53,3 +53,30 @@ titleSelector = "span[class='txt_detail']"
 linkSelector = "a[class='link_cafe make-list-uri #article_list']"
 imageSelector = "a img[class='article_thumb']"
 contentSelector = "span[class='created_at']"
+
+[daumcafe_official]
+title = "공식자료"
+url = "https://m.cafe.daum.net/loonatheworld/F5dG"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "a[class='link_cafe make-list-uri #article_list']"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
+
+[daumcafe_diary]
+title = "소녀 Diary"
+url = "https://m.cafe.daum.net/loonatheworld/F5dr"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "a[class='link_cafe make-list-uri #article_list']"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
+
+[daumcafe_loonatv]
+title = "LOOΠΔ TV"
+url = "https://m.cafe.daum.net/loonatheworld/GoAp"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "a[class='link_cafe make-list-uri #article_list']"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
