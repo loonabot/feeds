@@ -44,3 +44,12 @@ titleSelector = "span[class='txt_detail']"
 linkSelector = "a[class='link_cafe make-list-uri #article_list']"
 imageSelector = "a img[class='article_thumb']"
 contentSelector = "span[class='created_at']"
+
+[daumcafe_schedule]
+title = "스케줄방"
+url = "https://m.cafe.daum.net/loonatheworld/F5dC"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "a[class='link_cafe make-list-uri #article_list']"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
