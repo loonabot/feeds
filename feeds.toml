@@ -7,6 +7,7 @@ linkSelector = "a[data-click]"
 imageSelector = "span[class^='covered_image']"
 contentSelector = "em[class^='writer']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [vlive_post]
 title = "Notice"
@@ -17,6 +18,7 @@ linkSelector = "a[class^='post_area']"
 imageSelector = "span[class^='covered_image']"
 contentSelector = "em[class^='writer']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [bbc_naverpost]
 title = "Block Berry Creative ─ LOONA"
