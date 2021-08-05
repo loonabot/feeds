@@ -1,5 +1,5 @@
 [vlive]
-title = "Star Board"
+title = "LOONA ─ Star Board"
 url = "https://vlive.tv/channel/E1F3A7/board/4386"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
@@ -10,7 +10,7 @@ waitUntil = "networkidle"
 onFail = "stale"
 
 [vlive_post]
-title = "Notice"
+title = "LOONA ─ Notice"
 url = "https://vlive.tv/channel/E1F3A7/board/950"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong"
