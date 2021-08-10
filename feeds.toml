@@ -1,25 +1,3 @@
-[vlive]
-title = "LOONA ─ Star Board"
-url = "https://vlive.tv/channel/E1F3A7/board/4386"
-entrySelector = "li[class^='post_item']"
-titleSelector = "strong"
-linkSelector = "a[data-click]"
-imageSelector = "span[class^='covered_image']"
-contentSelector = "em[class^='writer']"
-waitUntil = "networkidle"
-onFail = "stale"
-
-[vlive_post]
-title = "LOONA ─ Notice"
-url = "https://vlive.tv/channel/E1F3A7/board/950"
-entrySelector = "li[class^='post_item']"
-titleSelector = "strong"
-linkSelector = "a[class^='post_area']"
-imageSelector = "span[class^='covered_image']"
-contentSelector = "em[class^='writer']"
-waitUntil = "networkidle"
-onFail = "stale"
-
 [bbc_naverpost]
 title = "Block Berry Creative ─ LOONA"
 url = "https://post.naver.com/my/series/detail.nhn?seriesNo=369070&memberNo=39258591"
