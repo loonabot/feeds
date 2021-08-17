@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Aug 2021 14:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 15:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -645,6 +645,14 @@ OST 요정
             <content:encoded><![CDATA[19.12.31]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[이달의 소녀] Happy Birthday HaSeul 🎉 (공식자료)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dG/596</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/596</guid>
+            <pubDate>Tue, 17 Aug 2021 15:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[9분 전]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/68a40aee85cb7f6a14830a5114741317b5ad5ddb" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
             <title><![CDATA[[이달의 소녀] 달의 일기 #2 (LOONA NOTE #2) (공식자료)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dG/595</link>
             <guid>https://m.cafe.daum.net/loonatheworld/F5dG/595</guid>
@@ -784,14 +792,6 @@ OST 요정
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[21.06.19]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/e44abd0b680bad80fdf86a14978ea5c599fa5a8a" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 이달의 소녀 (LOONA) [&] Concept Photo - HaSeul (공식자료)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dG/576</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/576</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.06.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/2a76f468fc0c94c841c3e73b51869fc35df18eb5" length="0" type="image//thumb/C52x52/"/>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] KCON:TACT 4 U Diary (소녀 Diary)]]></title>
@@ -958,7 +958,7 @@ OST 요정
             <link>https://m.cafe.daum.net/loonatheworld/GoAp/759</link>
             <guid>https://m.cafe.daum.net/loonatheworld/GoAp/759</guid>
             <pubDate>Tue, 17 Aug 2021 11:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[12:00]]></content:encoded>
+            <content:encoded><![CDATA[21.08.17]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이달의소녀탐구 #747 (LOONA TV #747) (LOOΠΔ TV)]]></title>
