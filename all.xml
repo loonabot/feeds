@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Aug 2021 23:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 11:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -954,6 +954,13 @@ OST 요정
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile277.uf.daum.net/image/991AAA485BBEF9083EF732" length="0" type="image//thumb/C52x52/"/>
         </item>
         <item>
+            <title><![CDATA[이달의소녀탐구 #749 (LOONA TV #749) (LOOΠΔ TV)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/GoAp/760</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/GoAp/760</guid>
+            <pubDate>Wed, 18 Aug 2021 11:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[12:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이달의소녀탐구 #748 (LOONA TV #748) (LOOΠΔ TV)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/GoAp/759</link>
             <guid>https://m.cafe.daum.net/loonatheworld/GoAp/759</guid>
@@ -1085,13 +1092,6 @@ OST 요정
             <guid>https://m.cafe.daum.net/loonatheworld/GoAp/741</guid>
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[21.05.05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의소녀탐구 #729 (LOONA TV #729) (LOOΠΔ TV)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/GoAp/740</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/GoAp/740</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.05.04]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[달로그 #29 (LOONA LOG #29) 하슬 #29 (HaSeul #29) (LOOΠΔ LOG)]]></title>
@@ -1325,6 +1325,14 @@ OST 요정
             <content:encoded><![CDATA[16.12.31]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[하슬] 안녕하세요 이달의 소녀 하슬입니다! (To. Orbit)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5df/132</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5df/132</guid>
+            <pubDate>Wed, 18 Aug 2021 11:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[10:38]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/03b760734d2d7b0e9f64218c715d3e8e8ebbd10f" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
             <title><![CDATA[[최리] 오빛ㅎㅎㅎ💜최리입니당😘🍒 (To. Orbit)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5df/131</link>
             <guid>https://m.cafe.daum.net/loonatheworld/F5df/131</guid>
@@ -1474,14 +1482,6 @@ OST 요정
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[20.11.15]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/2c3a0c12ca3168efc7944a12c4306934afddd38c_re_1605415102653" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[Olivia Hye] 안녕하세요 오빛🍉 (To. Orbit)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5df/112</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5df/112</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[20.11.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/be426ea8174c6e4278e7bb8d3d38b144eed7730f" length="0" type="image//thumb/C52x52/"/>
         </item>
     </channel>
 </rss>
