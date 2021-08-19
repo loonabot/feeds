@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Aug 2021 23:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 11:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -954,6 +954,13 @@ OST 요정
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile277.uf.daum.net/image/991AAA485BBEF9083EF732" length="0" type="image//thumb/C52x52/"/>
         </item>
         <item>
+            <title><![CDATA[이달의소녀탐구 #750 (LOONA TV #750) (LOOΠΔ TV)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/GoAp/761</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/GoAp/761</guid>
+            <pubDate>Thu, 19 Aug 2021 11:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[12:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이달의소녀탐구 #749 (LOONA TV #749) (LOOΠΔ TV)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/GoAp/760</link>
             <guid>https://m.cafe.daum.net/loonatheworld/GoAp/760</guid>
@@ -1085,13 +1092,6 @@ OST 요정
             <guid>https://m.cafe.daum.net/loonatheworld/GoAp/742</guid>
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[21.05.07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의소녀탐구 #730 (LOONA TV #730) (LOOΠΔ TV)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/GoAp/741</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/GoAp/741</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.05.05]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[달로그 #29 (LOONA LOG #29) 하슬 #29 (HaSeul #29) (LOOΠΔ LOG)]]></title>
@@ -1325,6 +1325,102 @@ OST 요정
             <content:encoded><![CDATA[16.12.31]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[Olivia Hye] 오빛 안녕하세요 올리비아 혜입니다 (To. Orbit)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5df/144</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5df/144</guid>
+            <pubDate>Thu, 19 Aug 2021 11:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[08:44]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/f36a9faebc8ef44c5738d181a1c7332823980ff0" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
+            <title><![CDATA[[고원] 오빛들 안녕안녕~고원이에요🦋 (To. Orbit)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5df/143</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5df/143</guid>
+            <pubDate>Thu, 19 Aug 2021 11:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[08:43]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/4b43ef269be7ac49d4cc5509ba41f267302c1cec" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
+            <title><![CDATA[[츄] 오빛🍓 (To. Orbit)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5df/142</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5df/142</guid>
+            <pubDate>Thu, 19 Aug 2021 11:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[08:42]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/a1c3168f1bba7e276a2592ef0f7cbeb42626451a" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
+            <title><![CDATA[[이브] To. 오빛❤️ From. 이브🍎 (To. Orbit)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5df/141</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5df/141</guid>
+            <pubDate>Thu, 19 Aug 2021 11:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[08:40]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/e7fa3753ef2e8bd15111c6eac8bef6f7b58a1794" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
+            <title><![CDATA[[최리] I Love You~🍒 (To. Orbit)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5df/140</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5df/140</guid>
+            <pubDate>Thu, 19 Aug 2021 11:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[08:39]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/0f236c7cbe917e21d1dbf68c3d07b7e80fc61763" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
+            <title><![CDATA[[진솔] 안녕하세요 오빛💙진솔입니다🙂 (To. Orbit)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5df/139</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5df/139</guid>
+            <pubDate>Thu, 19 Aug 2021 11:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[08:38]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/e40367ab5c9a6d80ce264f7e020fffa8f655e903" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
+            <title><![CDATA[[김립] 오빛! 안녕하세요 김립입니다💋 (To. Orbit)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5df/138</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5df/138</guid>
+            <pubDate>Thu, 19 Aug 2021 11:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[08:36]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/de9b1d62149faab05aca87306c98674d3573b769" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
+            <title><![CDATA[[ViVi] 안녕하세요~비비예요❤️ (To. Orbit)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5df/137</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5df/137</guid>
+            <pubDate>Thu, 19 Aug 2021 11:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[08:35]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/474b4424ff6a3dec01f54074649860345a9874c8" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
+            <title><![CDATA[[여진] 오빛만의 귀염둥이가🧡 (To. Orbit)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5df/136</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5df/136</guid>
+            <pubDate>Thu, 19 Aug 2021 11:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[08:33]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/399de8cfce7544641a7838344d7b9854de57b9c2" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
+            <title><![CDATA[[하슬] 오빛 안녕하세요 하슬입니다💚.💚 (To. Orbit)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5df/135</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5df/135</guid>
+            <pubDate>Thu, 19 Aug 2021 11:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[08:32]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/0fe35d91b01f4c7d819fe4c461c94fbb1858a0d1" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
+            <title><![CDATA[[현진] 현진이가 오빛에게💛 (To. Orbit)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5df/134</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5df/134</guid>
+            <pubDate>Thu, 19 Aug 2021 11:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[08:31]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/55aca19c4b8b7514e73e79f20efeb46ffabb170c_re_1629329399788" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
+            <title><![CDATA[[희진] 🐰 (To. Orbit)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5df/133</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5df/133</guid>
+            <pubDate>Thu, 19 Aug 2021 11:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[08:30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/68ff7ef8af0e48d8af52b475e1fdd48c665ea1f6_re_1629329360661" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
             <title><![CDATA[[하슬] 안녕하세요 이달의 소녀 하슬입니다! (To. Orbit)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5df/132</link>
             <guid>https://m.cafe.daum.net/loonatheworld/F5df/132</guid>
@@ -1386,102 +1482,6 @@ OST 요정
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[21.05.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/69bdb407dbbedcbf1a0b91904a07034527935ac3" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[김립] 안녕하세요 김립입니다 (To. Orbit)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5df/124</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5df/124</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.05.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/16c66bd6ca62b10e722e291d471989d03488ea16" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[Olivia Hye] 오빛 안녕하세요🍉 (To. Orbit)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5df/123</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5df/123</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.03.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/0870ee378a49681e2c34ad16a8af23656f867e5a" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀 1/3] 안녕하세요, 이달의 소녀 1/3입니다! (To. Orbit)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5df/122</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5df/122</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.03.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/66dcbd4eb899bfa67cfb15ee92785809d9b7c1a4" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[김립] 안녕하세요 오빛 (To. Orbit)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5df/121</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5df/121</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.02.10]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/d8bbdf3a954f2d18afa4ee01cedaa9aa8236516a" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[고원] 오빛들♡ 고원이에요 ε ᴗ̈ ɜ (To. Orbit)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5df/120</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5df/120</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.01.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/2ec6dcca31d9fef3d7e4dffb72a8c334d1ba4b8b" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[여진] 오빛🧡 (To. Orbit)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5df/119</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5df/119</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.01.16]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/6baa73afce073b33334d603b034abbb535b1bfd7" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[츄] ⭐️오빛⭐️안녕하세요🍓츄에요❤️ (To. Orbit)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5df/118</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5df/118</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[20.12.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/350c39f97099f31c2e28fb8aae2956130658c254" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[비비] 안녕하세요 비비예요! (To. Orbit)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5df/117</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5df/117</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[20.12.09]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/2be6877c55c369e36467733cfaef9c5fd79ddb1f" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이브] 오빛에게✨ (To. Orbit)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5df/116</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5df/116</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[20.11.28]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/395290215919b853544af0c5bb3229ec9c132f1d" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[고원] 안녕 안녕 고원이에요·ᴗ· (To. Orbit)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5df/115</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5df/115</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[20.11.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/b749d7882ea3e5d024e46d0aca2836506ac29aa7" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[현진] 안녕하세요 오빛🥰 (To. Orbit)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5df/114</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5df/114</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[20.11.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/71694f3c18a27cc82b00292d34b5bd656e9dae21" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[현진] TO. 나의 오빛 (To. Orbit)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5df/113</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5df/113</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[20.11.15]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/2c3a0c12ca3168efc7944a12c4306934afddd38c_re_1605415102653" length="0" type="image//thumb/C52x52/"/>
         </item>
     </channel>
 </rss>
