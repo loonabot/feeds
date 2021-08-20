@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Aug 2021 23:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Aug 2021 11:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -954,6 +954,13 @@ OST 요정
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile277.uf.daum.net/image/991AAA485BBEF9083EF732" length="0" type="image//thumb/C52x52/"/>
         </item>
         <item>
+            <title><![CDATA[이달의소녀탐구 #751 (LOONA TV #751) (LOOΠΔ TV)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/GoAp/762</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/GoAp/762</guid>
+            <pubDate>Fri, 20 Aug 2021 11:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[12:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이달의소녀탐구 #750 (LOONA TV #750) (LOOΠΔ TV)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/GoAp/761</link>
             <guid>https://m.cafe.daum.net/loonatheworld/GoAp/761</guid>
@@ -1083,13 +1090,6 @@ OST 요정
             <title><![CDATA[이달의소녀탐구 #732 (LOONA TV #732) (LOOΠΔ TV)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/GoAp/743</link>
             <guid>https://m.cafe.daum.net/loonatheworld/GoAp/743</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.05.07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의소녀탐구 #731 (LOONA TV #731) (LOOΠΔ TV)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/GoAp/742</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/GoAp/742</guid>
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[21.05.07]]></content:encoded>
         </item>
