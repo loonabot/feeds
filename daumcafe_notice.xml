@@ -4,9 +4,17 @@
         <title>공지사항</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Aug 2021 23:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 11:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이달의 소녀] 이달의 소녀 2021 SUMMER PACKAGE COMING SOON]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dA/317</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dA/317</guid>
+            <pubDate>Mon, 23 Aug 2021 11:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[14:00]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/7428dbbab158e1d89a09b8eb3f497310012c31c5" length="0" type="image//thumb/C52x52/"/>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀] 이달의 소녀 4th Mini Album [&] Official MD 예약 판매 안내]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dA/316</link>
@@ -148,13 +156,6 @@
             <title><![CDATA[안녕하세요, 블록베리크리에이티브입니다.]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dA/298</link>
             <guid>https://m.cafe.daum.net/loonatheworld/F5dA/298</guid>
-            <pubDate>Wed, 04 Aug 2021 21:50:23 GMT</pubDate>
-            <content:encoded><![CDATA[20.12.19]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 이달의 소녀 일정 관련 안내]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dA/297</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dA/297</guid>
             <pubDate>Wed, 04 Aug 2021 21:50:23 GMT</pubDate>
             <content:encoded><![CDATA[20.12.19]]></content:encoded>
         </item>
