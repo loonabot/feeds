@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Aug 2021 14:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 15:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,7 +203,7 @@ OST 요정
             <link>https://m.cafe.daum.net/loonatheworld/F5dA/317</link>
             <guid>https://m.cafe.daum.net/loonatheworld/F5dA/317</guid>
             <pubDate>Mon, 23 Aug 2021 11:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[14:00]]></content:encoded>
+            <content:encoded><![CDATA[21.08.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/7428dbbab158e1d89a09b8eb3f497310012c31c5" length="0" type="image//thumb/C52x52/"/>
         </item>
         <item>
@@ -959,7 +959,7 @@ OST 요정
             <link>https://m.cafe.daum.net/loonatheworld/GoAp/763</link>
             <guid>https://m.cafe.daum.net/loonatheworld/GoAp/763</guid>
             <pubDate>Mon, 23 Aug 2021 11:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[12:00]]></content:encoded>
+            <content:encoded><![CDATA[21.08.23]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이달의소녀탐구 #751 (LOONA TV #751) (LOOΠΔ TV)]]></title>
