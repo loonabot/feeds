@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cafe.daum.net/loonatheworld/IGsg</id>
     <title>LOOΠΔ LOG</title>
-    <updated>2021-08-27T23:09:59.451Z</updated>
+    <updated>2021-08-28T11:08:29.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cafe.daum.net/loonatheworld/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[달로그 #30 (LOONA LOG #30) 여진 #30 (YeoJin #30)]]></title>
+        <id>https://m.cafe.daum.net/loonatheworld/IGsg/32</id>
+        <link href="https://m.cafe.daum.net/loonatheworld/IGsg/32"/>
+        <updated>2021-08-28T11:08:18.055Z</updated>
+        <content type="html"><![CDATA[12:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달로그 #29 (LOONA LOG #29) 하슬 #29 (HaSeul #29)]]></title>
         <id>https://m.cafe.daum.net/loonatheworld/IGsg/31</id>
@@ -137,12 +144,5 @@
         <link href="https://m.cafe.daum.net/loonatheworld/IGsg/13"/>
         <updated>2021-08-04T22:02:55.532Z</updated>
         <content type="html"><![CDATA[20.07.31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달로그 #10 (LOONA LOG #10) 희진 #10 (HeeJin #10)]]></title>
-        <id>https://m.cafe.daum.net/loonatheworld/IGsg/11</id>
-        <link href="https://m.cafe.daum.net/loonatheworld/IGsg/11"/>
-        <updated>2021-08-04T22:02:55.539Z</updated>
-        <content type="html"><![CDATA[20.07.24]]></content>
     </entry>
 </feed>
