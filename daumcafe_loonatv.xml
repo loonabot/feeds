@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cafe.daum.net/loonatheworld/GoAp</id>
     <title>LOOΠΔ TV</title>
-    <updated>2021-08-30T14:09:34.203Z</updated>
+    <updated>2021-08-30T15:10:30.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cafe.daum.net/loonatheworld/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://m.cafe.daum.net/loonatheworld/GoAp/768</id>
         <link href="https://m.cafe.daum.net/loonatheworld/GoAp/768"/>
         <updated>2021-08-30T11:08:32.701Z</updated>
-        <content type="html"><![CDATA[12:00]]></content>
+        <content type="html"><![CDATA[21.08.30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이달의소녀탐구 #756 (LOONA TV #756)]]></title>
