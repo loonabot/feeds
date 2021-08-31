@@ -4,9 +4,17 @@
         <title>공지사항</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Aug 2021 23:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 11:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이달의 소녀] 이달의 소녀 2021 SUMMER PACKAGE 'LOONA ISLAND : 소녀들이 꿈꾸는 여름' 예약 판매 안내]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dA/318</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dA/318</guid>
+            <pubDate>Tue, 31 Aug 2021 11:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[15:00]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/a01fddfc26104fa73b845cda4e9bb82ae398c20f" length="0" type="image//thumb/C52x52/"/>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀] 이달의 소녀 2021 SUMMER PACKAGE COMING SOON]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dA/317</link>
@@ -151,13 +159,6 @@
             <guid>https://m.cafe.daum.net/loonatheworld/F5dA/299</guid>
             <pubDate>Wed, 04 Aug 2021 21:50:23 GMT</pubDate>
             <content:encoded><![CDATA[20.12.31]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안녕하세요, 블록베리크리에이티브입니다.]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dA/298</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dA/298</guid>
-            <pubDate>Wed, 04 Aug 2021 21:50:23 GMT</pubDate>
-            <content:encoded><![CDATA[20.12.19]]></content:encoded>
         </item>
     </channel>
 </rss>

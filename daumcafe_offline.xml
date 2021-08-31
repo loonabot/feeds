@@ -4,9 +4,17 @@
         <title>공방공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Aug 2021 23:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 11:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이달의 소녀] 이달의 소녀 SUMMER PACKAGE 발매 기념 Orbit Ring - [2021 LOONA ISLAND] 진행 안내]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F6Fq/377</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F6Fq/377</guid>
+            <pubDate>Tue, 31 Aug 2021 11:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[15:00]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/591e71eefd75b45ba3287e0f76820e3f5459b014" length="0" type="image//thumb/C52x52/"/>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀] [&] 발매 기념 'Orbit Ring - &' ⑦ 안내]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F6Fq/376</link>
@@ -153,14 +161,6 @@
             <pubDate>Wed, 04 Aug 2021 21:50:22 GMT</pubDate>
             <content:encoded><![CDATA[20.11.17]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile290.uf.daum.net/image/997E1E345FB3348C15D5EF" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] [12:00] 발매 기념 'Orbit Ring - [Midnight]' ⑦ 안내]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F6Fq/354</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F6Fq/354</guid>
-            <pubDate>Wed, 04 Aug 2021 21:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[20.11.13]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile283.uf.daum.net/image/995B41365FAE26E73656E8" length="0" type="image//thumb/C52x52/"/>
         </item>
     </channel>
 </rss>
