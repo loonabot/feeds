@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Sep 2021 23:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 11:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -647,6 +647,13 @@ OST 요정
             <content:encoded><![CDATA[20.01.29]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[이달의 소녀] 이달의 소녀 (희진, 김립, 진솔, 이브) "Not Friends" (Prod. RYAN JHUN) MV (공식자료)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dG/600</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/600</guid>
+            <pubDate>Fri, 03 Sep 2021 11:08:17 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 46분 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[이달의 소녀] 이달의 소녀 (희진, 김립, 진솔, 이브) "Not Friends" (Prod. RYAN JHUN) Teaser (공식자료)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dG/599</link>
             <guid>https://m.cafe.daum.net/loonatheworld/F5dG/599</guid>
@@ -784,14 +791,6 @@ OST 요정
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[21.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/c94423a7c3c7b5d848190325c0751352e10cafc6" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 이달의 소녀 (LOONA) [&] Concept Photo - YeoJin (공식자료)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dG/580</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/580</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/7af85baf1e7fdf309f363e5193978e5b736c869b" length="0" type="image//thumb/C52x52/"/>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] KCON:TACT 4 U Diary (소녀 Diary)]]></title>
@@ -954,6 +953,13 @@ OST 요정
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile277.uf.daum.net/image/991AAA485BBEF9083EF732" length="0" type="image//thumb/C52x52/"/>
         </item>
         <item>
+            <title><![CDATA[이달의소녀탐구 #761 (LOONA TV #761) (LOOΠΔ TV)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/GoAp/772</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/GoAp/772</guid>
+            <pubDate>Fri, 03 Sep 2021 11:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[12:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이달의소녀탐구 #760 (LOONA TV #760) (LOOΠΔ TV)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/GoAp/771</link>
             <guid>https://m.cafe.daum.net/loonatheworld/GoAp/771</guid>
@@ -1085,13 +1091,6 @@ OST 요정
             <guid>https://m.cafe.daum.net/loonatheworld/GoAp/753</guid>
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[21.05.27]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의소녀탐구 #741 (LOONA TV #741) (LOOΠΔ TV)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/GoAp/752</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/GoAp/752</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.05.26]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[달로그 #30 (LOONA LOG #30) 여진 #30 (YeoJin #30) (LOOΠΔ LOG)]]></title>

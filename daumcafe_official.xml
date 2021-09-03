@@ -4,9 +4,16 @@
         <title>공식자료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Sep 2021 23:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 11:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이달의 소녀] 이달의 소녀 (희진, 김립, 진솔, 이브) "Not Friends" (Prod. RYAN JHUN) MV]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dG/600</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/600</guid>
+            <pubDate>Fri, 03 Sep 2021 11:08:17 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 46분 전]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀] 이달의 소녀 (희진, 김립, 진솔, 이브) "Not Friends" (Prod. RYAN JHUN) Teaser]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dG/599</link>
@@ -145,14 +152,6 @@
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[21.06.21]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/c94423a7c3c7b5d848190325c0751352e10cafc6" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 이달의 소녀 (LOONA) [&] Concept Photo - YeoJin]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dG/580</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/580</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/7af85baf1e7fdf309f363e5193978e5b736c869b" length="0" type="image//thumb/C52x52/"/>
         </item>
     </channel>
 </rss>
