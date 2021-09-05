@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Sep 2021 23:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 11:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -647,6 +647,13 @@ OST 요정
             <content:encoded><![CDATA[20.01.29]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[이달의 소녀] 이달의 소녀 (여진, 김립, 최리, 고원) X 코코몽 "더주세요(yummy yummy)" Teaser (공식자료)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dG/601</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/601</guid>
+            <pubDate>Sun, 05 Sep 2021 11:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[2시간 7분 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[이달의 소녀] 이달의 소녀 (희진, 김립, 진솔, 이브) "Not Friends" (Prod. RYAN JHUN) MV (공식자료)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dG/600</link>
             <guid>https://m.cafe.daum.net/loonatheworld/F5dG/600</guid>
@@ -783,14 +790,6 @@ OST 요정
             <guid>https://m.cafe.daum.net/loonatheworld/F5dG/582</guid>
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[21.06.23]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 이달의 소녀 (LOONA) [&] Concept Photo - Kim Lip (공식자료)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dG/581</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/581</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.06.21]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/c94423a7c3c7b5d848190325c0751352e10cafc6" length="0" type="image//thumb/C52x52/"/>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] KCON:TACT 4 U Diary (소녀 Diary)]]></title>
