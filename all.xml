@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Sep 2021 23:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 11:09:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이달의 소녀]
+이달의 소녀의
+궤도 속으로 초대할게! (Block Berry Creative ─ LOONA)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32321813&amp;memberNo=39258591&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32321813&amp;memberNo=39258591&amp;navigationType=push</guid>
+            <pubDate>Thu, 09 Sep 2021 11:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">블록베리크리에이티브</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDdfNDMg/MDAxNjMwOTk3ODgzNTY4.YaYl_9zfV4Hq4b7jRBPDrxiMFN0P5orGAplXtBopTDIg.GwkO77yZ9EuI2c93bpX_qhLZykpOkGdK-tbdyhqtd2sg.JPEG/I_0OPzO7Fa5hnajwSJJfQq1k5rTk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀]
 여름 그리고 이달의 소녀 (Block Berry Creative ─ LOONA)]]></title>
@@ -187,16 +197,6 @@ OST 요정
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">블록베리크리에이티브</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MjdfMTI5/MDAxNTkwNTYzNDQ0NTY4.nuWg-UP9bpuqrlnNbu39HSpKXfQ3Atq7NpdL7RwfTeMg.Q0ujx2dgcrGkrFh4da46KrMWMJ3lWA5YHfZotWd0WJMg.JPEG/I4DfDAhWQ8zz0YMgmKKKGeZBbRgk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀]
-희진이 미모는
-연중무휴 열일 중 (Block Berry Creative ─ LOONA)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28155723&amp;memberNo=39258591&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28155723&amp;memberNo=39258591&amp;navigationType=push</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블록베리크리에이티브</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MDFfNzQg/MDAxNTg4MzIwMjQ3Mjgz.LzPlAcIF1UNf5CI6re1_Kn4jcUVg3r0mzHfZZPYAUocg.Mq7zan0Tt6NCnoQWJvh1vKpcAplQnABM7GI4IsWIyAcg.JPEG/IdfZviTXzZutZ5V8VIYFsxV_tPrA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] 이달의 소녀 2021 SUMMER PACKAGE 'LOONA ISLAND : 소녀들이 꿈꾸는 여름' 예약 판매 안내 (공지사항)]]></title>
@@ -952,6 +952,13 @@ OST 요정
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile277.uf.daum.net/image/991AAA485BBEF9083EF732" length="0" type="image//thumb/C52x52/"/>
         </item>
         <item>
+            <title><![CDATA[이달의소녀탐구 #765 (LOONA TV #765) (LOOΠΔ TV)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/GoAp/776</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/GoAp/776</guid>
+            <pubDate>Thu, 09 Sep 2021 11:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[12:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이달의소녀탐구 #764 (LOONA TV #764) (LOOΠΔ TV)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/GoAp/775</link>
             <guid>https://m.cafe.daum.net/loonatheworld/GoAp/775</guid>
@@ -1083,13 +1090,6 @@ OST 요정
             <guid>https://m.cafe.daum.net/loonatheworld/GoAp/757</guid>
             <pubDate>Fri, 13 Aug 2021 11:08:30 GMT</pubDate>
             <content:encoded><![CDATA[21.08.13]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의소녀탐구 #745 (LOONA TV #745) (LOOΠΔ TV)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/GoAp/756</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/GoAp/756</guid>
-            <pubDate>Thu, 12 Aug 2021 11:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.12]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[달로그 #30 (LOONA LOG #30) 여진 #30 (YeoJin #30) (LOOΠΔ LOG)]]></title>
