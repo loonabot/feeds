@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cafe.daum.net/loonatheworld/GoAp</id>
     <title>LOOΠΔ TV</title>
-    <updated>2021-09-15T23:10:26.676Z</updated>
+    <updated>2021-09-16T11:08:45.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cafe.daum.net/loonatheworld/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이달의소녀탐구 #770 (LOONA TV #770)]]></title>
+        <id>https://m.cafe.daum.net/loonatheworld/GoAp/781</id>
+        <link href="https://m.cafe.daum.net/loonatheworld/GoAp/781"/>
+        <updated>2021-09-16T11:08:30.580Z</updated>
+        <content type="html"><![CDATA[12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이달의소녀탐구 #769 (LOONA TV #769)]]></title>
         <id>https://m.cafe.daum.net/loonatheworld/GoAp/780</id>
@@ -137,12 +144,5 @@
         <link href="https://m.cafe.daum.net/loonatheworld/GoAp/762"/>
         <updated>2021-08-20T11:08:33.536Z</updated>
         <content type="html"><![CDATA[21.08.20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이달의소녀탐구 #750 (LOONA TV #750)]]></title>
-        <id>https://m.cafe.daum.net/loonatheworld/GoAp/761</id>
-        <link href="https://m.cafe.daum.net/loonatheworld/GoAp/761"/>
-        <updated>2021-08-19T11:08:56.421Z</updated>
-        <content type="html"><![CDATA[21.08.19]]></content>
     </entry>
 </feed>

@@ -4,9 +4,19 @@
         <title>Block Berry Creative ─ LOONA</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Sep 2021 23:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Sep 2021 11:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이달의 소녀]
+츄는 퍼펙트,
+치킨은 츄리플!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32377584&amp;memberNo=39258591&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32377584&amp;memberNo=39258591&amp;navigationType=push</guid>
+            <pubDate>Thu, 16 Sep 2021 11:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">블록베리크리에이티브</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTVfNjkg/MDAxNjMxNjk4NTE1MTMw.9suJAjjvG3zsQoZdh-c-EW3-4bK_QrvgV36Hh5Hz8Xog.-z64iPm7FHhZSbUBHByhjd4S6Uf2I7spD9XYq7ClCc4g.JPEG/Icwz1LGexqiAtqG7jOghBVEojU2Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀]
 이달의 소녀의
@@ -188,15 +198,6 @@ OST 요정
             <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">블록베리크리에이티브</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MjlfMjU2/MDAxNTkwNzI3NjM5Mzk1.ciHXWaNK23N_gd_4FFhvVaX3QQpAK3RmasxRLHqljv0g._xCaTdcggEXmu1RGgQa7Nt3VpIFq08VqPuV9B_m4k7Ag.JPEG/Ig0dfvU7nfmUzwpQ3seyvH5eDzpk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀]
-요정들의 봄나들이]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28383214&amp;memberNo=39258591&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28383214&amp;memberNo=39258591&amp;navigationType=push</guid>
-            <pubDate>Sun, 01 Aug 2021 20:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블록베리크리에이티브</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MjdfMTI5/MDAxNTkwNTYzNDQ0NTY4.nuWg-UP9bpuqrlnNbu39HSpKXfQ3Atq7NpdL7RwfTeMg.Q0ujx2dgcrGkrFh4da46KrMWMJ3lWA5YHfZotWd0WJMg.JPEG/I4DfDAhWQ8zz0YMgmKKKGeZBbRgk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
