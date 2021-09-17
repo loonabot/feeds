@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Sep 2021 23:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 11:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -648,6 +648,13 @@ OST 요정
             <content:encoded><![CDATA[20.01.29]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[이달의 소녀] 이달의 소녀 (LOONA) Japan Debut Teaser (공식자료)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dG/602</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/602</guid>
+            <pubDate>Fri, 17 Sep 2021 11:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[2시간 6분 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[이달의 소녀] 이달의 소녀 (여진, 김립, 최리, 고원) X 코코몽 "더주세요(yummy yummy)" Teaser (공식자료)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dG/601</link>
             <guid>https://m.cafe.daum.net/loonatheworld/F5dG/601</guid>
@@ -784,13 +791,6 @@ OST 요정
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[21.06.24]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/7e197822afc0a7ecd9f292602cf0e905b2f860e0" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 이달의 소녀 (LOONA) "&2" Trailer (공식자료)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dG/582</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/582</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.06.23]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] KCON:TACT 4 U Diary (소녀 Diary)]]></title>
@@ -953,6 +953,13 @@ OST 요정
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile277.uf.daum.net/image/991AAA485BBEF9083EF732" length="0" type="image//thumb/C52x52/"/>
         </item>
         <item>
+            <title><![CDATA[이달의소녀탐구 #771 (LOONA TV #771) (LOOΠΔ TV)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/GoAp/782</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/GoAp/782</guid>
+            <pubDate>Fri, 17 Sep 2021 11:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[12:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이달의소녀탐구 #770 (LOONA TV #770) (LOOΠΔ TV)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/GoAp/781</link>
             <guid>https://m.cafe.daum.net/loonatheworld/GoAp/781</guid>
@@ -1084,13 +1091,6 @@ OST 요정
             <guid>https://m.cafe.daum.net/loonatheworld/GoAp/763</guid>
             <pubDate>Mon, 23 Aug 2021 11:08:29 GMT</pubDate>
             <content:encoded><![CDATA[21.08.23]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이달의소녀탐구 #751 (LOONA TV #751) (LOOΠΔ TV)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/GoAp/762</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/GoAp/762</guid>
-            <pubDate>Fri, 20 Aug 2021 11:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.20]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[달로그 #30 (LOONA LOG #30) 여진 #30 (YeoJin #30) (LOOΠΔ LOG)]]></title>
