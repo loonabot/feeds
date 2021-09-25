@@ -4,9 +4,16 @@
         <title>공식자료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 23:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 11:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이달의 소녀] 달의 일기 #3 (LOONA NOTE #3)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dG/603</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/603</guid>
+            <pubDate>Sat, 25 Sep 2021 11:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[12:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀] 이달의 소녀 (LOONA) Japan Debut Teaser]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dG/602</link>
@@ -143,14 +150,6 @@
             <guid>https://m.cafe.daum.net/loonatheworld/F5dG/584</guid>
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[21.06.25]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 이달의 소녀 (LOONA) [&] Concept Photo - LOOΠΔ]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dG/583</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/583</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.06.24]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/7e197822afc0a7ecd9f292602cf0e905b2f860e0" length="0" type="image//thumb/C52x52/"/>
         </item>
     </channel>
 </rss>
