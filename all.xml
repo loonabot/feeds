@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Sep 2021 23:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Sep 2021 11:08:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1092,6 +1092,13 @@ OST 요정
             <content:encoded><![CDATA[21.08.27]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[달로그 #31 (LOONA LOG #31) 최리 #31 (Choerry #31) (LOOΠΔ LOG)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/IGsg/33</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/IGsg/33</guid>
+            <pubDate>Sun, 26 Sep 2021 11:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[12:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[달로그 #30 (LOONA LOG #30) 여진 #30 (YeoJin #30) (LOOΠΔ LOG)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/IGsg/32</link>
             <guid>https://m.cafe.daum.net/loonatheworld/IGsg/32</guid>
@@ -1223,13 +1230,6 @@ OST 요정
             <guid>https://m.cafe.daum.net/loonatheworld/IGsg/14</guid>
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[20.08.08]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[달로그 #11 (LOONA LOG #11) 최리 #11 (Choerry #11) (LOOΠΔ LOG)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/IGsg/13</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/IGsg/13</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[20.07.31]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이달의소녀탐정16 #ijk (LOONA TV Prequel16 #ijk) (LOOΠΔ TV Prequel)]]></title>
