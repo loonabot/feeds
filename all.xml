@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 23:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 11:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -508,6 +508,13 @@ OST 요정
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile290.uf.daum.net/image/997E1E345FB3348C15D5EF" length="0" type="image//thumb/C52x52/"/>
         </item>
         <item>
+            <title><![CDATA[[이달의 소녀] 2021년 10월 스케줄 (스케줄방)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dC/57</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dC/57</guid>
+            <pubDate>Tue, 28 Sep 2021 11:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[2시간 33분 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[이달의 소녀] 2021년 9월 스케줄 (20210923 ver) (스케줄방)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dC/56</link>
             <guid>https://m.cafe.daum.net/loonatheworld/F5dC/56</guid>
@@ -639,13 +646,6 @@ OST 요정
             <guid>https://m.cafe.daum.net/loonatheworld/F5dC/38</guid>
             <pubDate>Wed, 04 Aug 2021 21:51:41 GMT</pubDate>
             <content:encoded><![CDATA[20.02.25]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 2020년 2월 스케줄 (20200225 ver) (스케줄방)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dC/37</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dC/37</guid>
-            <pubDate>Wed, 04 Aug 2021 21:51:41 GMT</pubDate>
-            <content:encoded><![CDATA[20.01.29]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] 달의 일기 #3 (LOONA NOTE #3) (공식자료)]]></title>
