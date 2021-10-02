@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 23:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 11:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -648,6 +648,13 @@ OST 요정
             <content:encoded><![CDATA[20.02.25]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[달의 일기 #4 (LOONA NOTE #4) (공식자료)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dG/604</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/604</guid>
+            <pubDate>Sat, 02 Oct 2021 11:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[12:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[이달의 소녀] 달의 일기 #3 (LOONA NOTE #3) (공식자료)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dG/603</link>
             <guid>https://m.cafe.daum.net/loonatheworld/F5dG/603</guid>
@@ -783,13 +790,6 @@ OST 요정
             <guid>https://m.cafe.daum.net/loonatheworld/F5dG/585</guid>
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[21.06.26]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 이달의 소녀 (LOONA) "&3" Trailer (공식자료)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dG/584</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/584</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.06.25]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] KCON:TACT 4 U Diary (소녀 Diary)]]></title>
