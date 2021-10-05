@@ -4,9 +4,17 @@
         <title>To. Orbit</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 23:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 11:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[희진] 안녕 오빛들!]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5df/146</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5df/146</guid>
+            <pubDate>Tue, 05 Oct 2021 11:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[11:39]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/dadea0c5a06a9b2ac238c33608ae2f114bdaf217" length="0" type="image//thumb/C52x52/"/>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀 OEC] 안녕하세요, 이달의 소녀 오드아이써클입니다!]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5df/145</link>
@@ -157,14 +165,6 @@
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[21.06.04]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/901cbf7904e1a878f5e78a721bf322882a52bb05" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀 yyxy] 안녕하세요, 이달의 소녀 yyxy입니다!]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5df/126</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5df/126</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[21.05.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/a6d2bc2609f704109c21fda31b0880f4a9f27a47" length="0" type="image//thumb/C52x52/"/>
         </item>
     </channel>
 </rss>
