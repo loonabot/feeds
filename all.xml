@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 17:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 18:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -652,7 +652,7 @@ OST 요정
             <link>https://m.cafe.daum.net/loonatheworld/F5dG/605</link>
             <guid>https://m.cafe.daum.net/loonatheworld/F5dG/605</guid>
             <pubDate>Fri, 08 Oct 2021 15:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 9분 전]]></content:encoded>
+            <content:encoded><![CDATA[00:07]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] 달의 일기 #4 (LOONA NOTE #4) (공식자료)]]></title>
