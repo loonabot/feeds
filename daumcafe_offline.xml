@@ -4,9 +4,24 @@
         <title>공방공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 11:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 22:38:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이달의 소녀] 'Orbit Ring - [LOOΠΔ CLASS OF 2022]' 진행 안내]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F6Fq/379</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F6Fq/379</guid>
+            <pubDate>Sun, 13 Feb 2022 22:37:48 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.30]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/481a862ed1a5034e0ae95b0813f9746c15188b73" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
+            <title><![CDATA[[이달의 소녀] [HULA HOOP/StarSeed〜カクセイ〜] 발매 기념 'Orbit Ring' 안내]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F6Fq/378</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F6Fq/378</guid>
+            <pubDate>Sun, 13 Feb 2022 22:37:48 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.25]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀] 이달의 소녀 SUMMER PACKAGE 발매 기념 Orbit Ring - [2021 LOONA ISLAND] 진행 안내]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F6Fq/377</link>
@@ -145,22 +160,6 @@
             <pubDate>Wed, 04 Aug 2021 21:50:22 GMT</pubDate>
             <content:encoded><![CDATA[20.11.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile270.uf.daum.net/image/999F47345FBB516F2E4FCB" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] [12:00] 발매 기념 'Orbit Ring - [Midnight]' ⑨ 안내]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F6Fq/356</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F6Fq/356</guid>
-            <pubDate>Wed, 04 Aug 2021 21:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[20.11.20]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile276.uf.daum.net/image/996C474A5FB727B31307E3" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] [12:00] 발매 기념 'Orbit Ring - [Midnight]' ⑧ 안내]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F6Fq/355</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F6Fq/355</guid>
-            <pubDate>Wed, 04 Aug 2021 21:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[20.11.17]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile290.uf.daum.net/image/997E1E345FB3348C15D5EF" length="0" type="image//thumb/C52x52/"/>
         </item>
     </channel>
 </rss>
