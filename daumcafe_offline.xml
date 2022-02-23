@@ -4,9 +4,16 @@
         <title>공방공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 23:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 11:09:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이달의 소녀] 220228 Mnet 퀸덤2 현장 평가단 참여 안내]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F6Fq/380</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F6Fq/380</guid>
+            <pubDate>Wed, 23 Feb 2022 11:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[12:13]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀] 'Orbit Ring - [LOOΠΔ CLASS OF 2022]' 진행 안내]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F6Fq/379</link>
@@ -152,14 +159,6 @@
             <pubDate>Wed, 04 Aug 2021 21:50:22 GMT</pubDate>
             <content:encoded><![CDATA[20.12.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile275.uf.daum.net/image/997EA3475FC5A7A211EA97" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] [12:00] 발매 기념 'Orbit Ring - [Midnight]' ⑩ 안내]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F6Fq/357</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F6Fq/357</guid>
-            <pubDate>Wed, 04 Aug 2021 21:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[20.11.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile270.uf.daum.net/image/999F47345FBB516F2E4FCB" length="0" type="image//thumb/C52x52/"/>
         </item>
     </channel>
 </rss>
