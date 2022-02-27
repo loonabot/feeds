@@ -4,9 +4,16 @@
         <title>공식자료</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 11:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 12:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이달의 소녀] Olivia Hye (이달의 소녀) "봄이 되어줄게 (prod.공기남)" Teaser]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dG/633</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/633</guid>
+            <pubDate>Sun, 27 Feb 2022 12:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[DALPLY] 이달의 소녀 김립 "너의 모든 순간" COVER (원곡 - 성시경)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dG/632</link>
@@ -147,14 +154,6 @@
             <guid>https://m.cafe.daum.net/loonatheworld/F5dG/609</guid>
             <pubDate>Sun, 13 Feb 2022 22:38:01 GMT</pubDate>
             <content:encoded><![CDATA[21.10.19]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] Happy Birthday HeeJin 🎉]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dG/608</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/608</guid>
-            <pubDate>Sun, 13 Feb 2022 22:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.19]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/09264b8f6f73f59961777ecb06c312786cb024e1" length="0" type="image//thumb/C52x52/"/>
         </item>
     </channel>
 </rss>
