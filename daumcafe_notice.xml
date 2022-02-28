@@ -4,9 +4,16 @@
         <title>공지사항</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 23:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 11:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안녕하세요. 블록베리크리에이티브입니다.]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dA/330</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dA/330</guid>
+            <pubDate>Mon, 28 Feb 2022 11:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[09:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀] 팬레터 및 선물 관련 안내 & 서포트 신청 방법 [20220224 ver]]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dA/329</link>
@@ -149,14 +156,6 @@
             <guid>https://m.cafe.daum.net/loonatheworld/F5dA/311</guid>
             <pubDate>Wed, 04 Aug 2021 21:50:23 GMT</pubDate>
             <content:encoded><![CDATA[21.07.01]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 이달의 소녀 4th Mini Album [&] (Kit Ver.) 예약 판매 안내 (+ 링크 추가)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dA/310</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dA/310</guid>
-            <pubDate>Wed, 04 Aug 2021 21:50:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.06.11]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/3a439e9ba31e990a9fc424203ada33d50b185845" length="0" type="image//thumb/C52x52/"/>
         </item>
     </channel>
 </rss>
