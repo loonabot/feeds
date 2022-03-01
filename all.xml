@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 23:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 11:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -199,6 +199,13 @@ Chuu가 좋아서 그래♡ (Block Berry Creative ─ LOONA)]]></title>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMDFfMjM0/MDAxNjA5NDgzODY1MzQ3.x3L4HrNu5vKp75WpLna1MnMj680LuBC-BUpJY91TCkwg.IjWukmQ-gatxDr9E8HmHe2xaq24mAEZey27z_-DWV4cg.JPEG/IVdaormEi2alJZssBpy4LB5HPhJs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[안녕하세요. 블록베리크리에이티브입니다.[검사결과 안내] (공지사항)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dA/331</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dA/331</guid>
+            <pubDate>Tue, 01 Mar 2022 11:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[11:30]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[안녕하세요. 블록베리크리에이티브입니다. (공지사항)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dA/330</link>
             <guid>https://m.cafe.daum.net/loonatheworld/F5dA/330</guid>
@@ -340,13 +347,6 @@ Chuu가 좋아서 그래♡ (Block Berry Creative ─ LOONA)]]></title>
             <pubDate>Wed, 04 Aug 2021 21:50:23 GMT</pubDate>
             <content:encoded><![CDATA[21.07.01]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/0ad57a804abc1fb047f16246b243cf36ab90141a" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕하세요. 블록베리크리에이티브입니다. (공지사항)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dA/311</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dA/311</guid>
-            <pubDate>Wed, 04 Aug 2021 21:50:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.01]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] 220228 Mnet 퀸덤2 현장 평가단 참여 안내 (+ 시간 추가) (공방공지)]]></title>
@@ -642,6 +642,13 @@ Chuu가 좋아서 그래♡ (Block Berry Creative ─ LOONA)]]></title>
             <content:encoded><![CDATA[20.06.23]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[이달의 소녀] Olivia Hye (이달의 소녀) "봄이 되어줄게 (prod.공기남)" Live Clip (공식자료)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dG/634</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/634</guid>
+            <pubDate>Tue, 01 Mar 2022 11:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[2시간 9분 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[이달의 소녀] Olivia Hye (이달의 소녀) "봄이 되어줄게 (prod.공기남)" Teaser (공식자료)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dG/633</link>
             <guid>https://m.cafe.daum.net/loonatheworld/F5dG/633</guid>
@@ -781,13 +788,6 @@ Chuu가 좋아서 그래♡ (Block Berry Creative ─ LOONA)]]></title>
             <pubDate>Sun, 13 Feb 2022 22:38:01 GMT</pubDate>
             <content:encoded><![CDATA[21.10.20]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/fc11de61b889f05419c60427c75dd3046b4eb475" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 이달의 소녀 (LOONA) "StarSeed～カクセイ～" Teaser (공식자료)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dG/609</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dG/609</guid>
-            <pubDate>Sun, 13 Feb 2022 22:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.19]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] KCON:TACT 4 U Diary (소녀 Diary)]]></title>
