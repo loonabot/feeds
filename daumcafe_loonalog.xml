@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cafe.daum.net/loonatheworld/IGsg</id>
     <title>LOOΠΔ LOG</title>
-    <updated>2022-03-11T23:11:50.623Z</updated>
+    <updated>2022-03-12T11:10:23.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cafe.daum.net/loonatheworld/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[달로그 #38 (LOONA LOG #38) 고원 #38 (Go Won #38)]]></title>
+        <id>https://m.cafe.daum.net/loonatheworld/IGsg/40</id>
+        <link href="https://m.cafe.daum.net/loonatheworld/IGsg/40"/>
+        <updated>2022-03-12T11:10:11.115Z</updated>
+        <content type="html"><![CDATA[12:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달로그 #37 (LOONA LOG #37) 올리비아 혜 #37 (Olivia Hye #37)]]></title>
+        <id>https://m.cafe.daum.net/loonatheworld/IGsg/39</id>
+        <link href="https://m.cafe.daum.net/loonatheworld/IGsg/39"/>
+        <updated>2022-03-12T11:10:11.122Z</updated>
+        <content type="html"><![CDATA[12:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달로그 #36 (LOONA LOG #36) 최리 #36 (Choerry #36)]]></title>
         <id>https://m.cafe.daum.net/loonatheworld/IGsg/38</id>
@@ -130,19 +144,5 @@
         <link href="https://m.cafe.daum.net/loonatheworld/IGsg/21"/>
         <updated>2021-08-04T22:02:55.432Z</updated>
         <content type="html"><![CDATA[20.08.30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달로그 #18(LOONA LOG #18) 김립 #18 (Kim Lip #18)]]></title>
-        <id>https://m.cafe.daum.net/loonatheworld/IGsg/20</id>
-        <link href="https://m.cafe.daum.net/loonatheworld/IGsg/20"/>
-        <updated>2021-08-04T22:02:55.440Z</updated>
-        <content type="html"><![CDATA[20.08.29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달로그 #17(LOONA LOG #17) 희진 #17 (HeeJin #17)]]></title>
-        <id>https://m.cafe.daum.net/loonatheworld/IGsg/19</id>
-        <link href="https://m.cafe.daum.net/loonatheworld/IGsg/19"/>
-        <updated>2021-08-04T22:02:55.448Z</updated>
-        <content type="html"><![CDATA[20.08.23]]></content>
     </entry>
 </feed>

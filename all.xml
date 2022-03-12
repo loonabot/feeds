@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 23:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 11:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1089,6 +1089,20 @@ Chuu가 좋아서 그래♡ (Block Berry Creative ─ LOONA)]]></title>
             <content:encoded><![CDATA[21.08.27]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[달로그 #38 (LOONA LOG #38) 고원 #38 (Go Won #38) (LOOΠΔ LOG)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/IGsg/40</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/IGsg/40</guid>
+            <pubDate>Sat, 12 Mar 2022 11:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[12:13]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[달로그 #37 (LOONA LOG #37) 올리비아 혜 #37 (Olivia Hye #37) (LOOΠΔ LOG)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/IGsg/39</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/IGsg/39</guid>
+            <pubDate>Sat, 12 Mar 2022 11:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[12:13]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[달로그 #36 (LOONA LOG #36) 최리 #36 (Choerry #36) (LOOΠΔ LOG)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/IGsg/38</link>
             <guid>https://m.cafe.daum.net/loonatheworld/IGsg/38</guid>
@@ -1213,20 +1227,6 @@ Chuu가 좋아서 그래♡ (Block Berry Creative ─ LOONA)]]></title>
             <guid>https://m.cafe.daum.net/loonatheworld/IGsg/21</guid>
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[20.08.30]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[달로그 #18(LOONA LOG #18) 김립 #18 (Kim Lip #18) (LOOΠΔ LOG)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/IGsg/20</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/IGsg/20</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[20.08.29]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[달로그 #17(LOONA LOG #17) 희진 #17 (HeeJin #17) (LOOΠΔ LOG)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/IGsg/19</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/IGsg/19</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[20.08.23]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이달의소녀탐정16 #ijk (LOONA TV Prequel16 #ijk) (LOOΠΔ TV Prequel)]]></title>
