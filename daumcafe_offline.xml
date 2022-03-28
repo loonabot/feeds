@@ -4,7 +4,7 @@
         <title>공방공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 12:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 13:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,14 +13,6 @@
             <guid>https://m.cafe.daum.net/loonatheworld/F6Fq/383</guid>
             <pubDate>Tue, 22 Mar 2022 12:18:07 GMT</pubDate>
             <content:encoded><![CDATA[22.03.22]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Re: [이달의 소녀] 220328 Mnet 퀸덤2 현장 평가단 참여 명단 안내 (+명단 수정)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F6Fq/386</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F6Fq/386</guid>
-            <pubDate>Sun, 27 Mar 2022 11:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.27]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/60538447c9ccb95373f81274f5aa7df177481e8e" length="0" type="image//thumb/C52x52/"/>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] 220327 Mnet 퀸덤2 1회차 무대 녹화 현장 참여 안내]]></title>
@@ -157,6 +149,14 @@
             <pubDate>Sun, 27 Mar 2022 19:09:06 GMT</pubDate>
             <content:encoded><![CDATA[20.12.14]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile294.uf.daum.net/image/99A3B44E5FD723DB39F4D6" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
+            <title><![CDATA[[이달의 소녀] [12:00] 발매 기념 'Orbit Ring - [Midnight]' ⑫ 안내]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F6Fq/361</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F6Fq/361</guid>
+            <pubDate>Mon, 28 Mar 2022 13:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[20.12.07]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile268.uf.daum.net/image/99EBE8415FCDDDDE033601" length="0" type="image//thumb/C52x52/"/>
         </item>
     </channel>
 </rss>
