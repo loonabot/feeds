@@ -4,9 +4,16 @@
         <title>공지사항</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 14:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 15:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이달의 소녀] '퀸덤2' 1차 경연 FANS' CHOICE 투표 안내]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dA/336</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dA/336</guid>
+            <pubDate>Thu, 07 Apr 2022 15:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[10분 전]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀] ‘퀸덤2’ 출연 응원 이벤트 안내]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dA/335</link>
@@ -148,14 +155,6 @@
             <pubDate>Mon, 23 Aug 2021 11:07:57 GMT</pubDate>
             <content:encoded><![CDATA[21.08.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/7428dbbab158e1d89a09b8eb3f497310012c31c5" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 이달의 소녀 4th Mini Album [&] Official MD 예약 판매 안내]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dA/316</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dA/316</guid>
-            <pubDate>Wed, 04 Aug 2021 21:50:23 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/a76621d3d3eedbfedbca23b50c51f602621889a0" length="0" type="image//thumb/C52x52/"/>
         </item>
     </channel>
 </rss>
