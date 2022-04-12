@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 22:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 12:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,13 @@ Chuu가 좋아서 그래♡ (Block Berry Creative ─ LOONA)]]></title>
             <content:encoded><![CDATA[22.04.02]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Re: [이달의 소녀] ‘퀸덤2’ 출연 응원 이벤트 당첨자 안내 (공지사항)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dA/337</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dA/337</guid>
+            <pubDate>Tue, 12 Apr 2022 12:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[16:04]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[이달의 소녀] 이달의 소녀(LOOΠΔ) 공식 팬클럽 ‘Orbit’ 4기 모집 안내 (공지사항)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dA/334</link>
             <guid>https://m.cafe.daum.net/loonatheworld/F5dA/334</guid>
@@ -336,14 +343,6 @@ Chuu가 좋아서 그래♡ (Block Berry Creative ─ LOONA)]]></title>
             <pubDate>Tue, 31 Aug 2021 11:07:52 GMT</pubDate>
             <content:encoded><![CDATA[21.08.31]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/4c4aa7ed2198c8e27ff849c4b65a683d2c0895a7" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 이달의 소녀 2021 SUMMER PACKAGE COMING SOON (공지사항)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dA/317</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dA/317</guid>
-            <pubDate>Mon, 23 Aug 2021 11:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.23]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/7428dbbab158e1d89a09b8eb3f497310012c31c5" length="0" type="image//thumb/C52x52/"/>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] 220328 Mnet 퀸덤2 현장 평가단 참여 안내 (공방공지)]]></title>
