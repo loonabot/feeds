@@ -4,9 +4,17 @@
         <title>공지사항</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 23:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 11:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이달의 소녀] 이달의 소녀(LOOΠΔ) 공식 팬클럽 ‘Orbit’ 4기 추가 모집 안내]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dA/339</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dA/339</guid>
+            <pubDate>Wed, 20 Apr 2022 11:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[14:35]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/baa2afdb1d672de7244bd28498499745ea8b4bc3_re_1650432290024" length="0" type="image//thumb/C52x52/"/>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀] 팹(Fab) 이용 에티켓 안내]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dA/338</link>
@@ -145,14 +153,6 @@
             <guid>https://m.cafe.daum.net/loonatheworld/F5dA/320</guid>
             <pubDate>Sun, 13 Feb 2022 22:37:41 GMT</pubDate>
             <content:encoded><![CDATA[21.12.14]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 2022 이달의 소녀 3rd SEASON'S GREETINGS 예약 판매 안내]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dA/319</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dA/319</guid>
-            <pubDate>Sun, 13 Feb 2022 22:37:41 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.30]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/595fa57871cf4540a1c6ab266e81547d43402027" length="0" type="image//thumb/C52x52/"/>
         </item>
     </channel>
 </rss>
