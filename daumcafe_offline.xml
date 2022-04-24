@@ -4,7 +4,7 @@
         <title>공방공지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 23:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 11:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,13 +27,6 @@
             <guid>https://m.cafe.daum.net/loonatheworld/F6Fq/387</guid>
             <pubDate>Sat, 16 Apr 2022 11:10:12 GMT</pubDate>
             <content:encoded><![CDATA[22.04.16]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Re: [이달의 소녀] 220424 Mnet 퀸덤2 1라운드 경연 현장 평가단 참여 명단 안내 (+추가공지)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F6Fq/389</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F6Fq/389</guid>
-            <pubDate>Tue, 19 Apr 2022 11:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.19]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] 220328 Mnet 퀸덤2 현장 평가단 참여 안내]]></title>
@@ -154,6 +147,13 @@
             <pubDate>Wed, 04 Aug 2021 21:50:22 GMT</pubDate>
             <content:encoded><![CDATA[21.06.11]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/8753bec69ab8bdecc4c18bf195d3f16036260a8c_re_1623386200987" length="0" type="image//thumb/C52x52/"/>
+        </item>
+        <item>
+            <title><![CDATA[[이달의 소녀] 2021 언택트 G-KPOP CONCERT 화상 참여 신청 안내]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F6Fq/365</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F6Fq/365</guid>
+            <pubDate>Sun, 24 Apr 2022 11:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[21.03.29]]></content:encoded>
         </item>
     </channel>
 </rss>
