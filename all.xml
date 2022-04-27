@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 22:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 11:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -493,6 +493,13 @@ Chuu가 좋아서 그래♡ (Block Berry Creative ─ LOONA)]]></title>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile275.uf.daum.net/image/99E5DC3F5FD8224C109343" length="0" type="image//thumb/C52x52/"/>
         </item>
         <item>
+            <title><![CDATA[[이달의 소녀] 2022년 5월 스케줄 (스케줄방)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dC/64</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dC/64</guid>
+            <pubDate>Wed, 27 Apr 2022 11:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[14:11]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[이달의 소녀] 2022년 4월 스케줄 (스케줄방)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dC/63</link>
             <guid>https://m.cafe.daum.net/loonatheworld/F5dC/63</guid>
@@ -624,13 +631,6 @@ Chuu가 좋아서 그래♡ (Block Berry Creative ─ LOONA)]]></title>
             <guid>https://m.cafe.daum.net/loonatheworld/F5dC/45</guid>
             <pubDate>Wed, 04 Aug 2021 21:51:40 GMT</pubDate>
             <content:encoded><![CDATA[20.09.25]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 2020년 9월 스케줄 (20200929 ver) (스케줄방)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dC/44</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dC/44</guid>
-            <pubDate>Wed, 04 Aug 2021 21:51:40 GMT</pubDate>
-            <content:encoded><![CDATA[20.08.31]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] Olivia Hye (이달의 소녀) "봄이 되어줄게 (prod.공기남)" Live Clip (공식자료)]]></title>
@@ -1081,6 +1081,13 @@ Chuu가 좋아서 그래♡ (Block Berry Creative ─ LOONA)]]></title>
             <content:encoded><![CDATA[21.08.27]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[달로그 #39 (LOONA LOG #39) 여진 #39 (YeoJin #39) (LOOΠΔ LOG)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/IGsg/41</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/IGsg/41</guid>
+            <pubDate>Wed, 27 Apr 2022 11:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[12:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[달로그 #38 (LOONA LOG #38) 고원 #38 (Go Won #38) (LOOΠΔ LOG)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/IGsg/40</link>
             <guid>https://m.cafe.daum.net/loonatheworld/IGsg/40</guid>
@@ -1212,13 +1219,6 @@ Chuu가 좋아서 그래♡ (Block Berry Creative ─ LOONA)]]></title>
             <guid>https://m.cafe.daum.net/loonatheworld/IGsg/22</guid>
             <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
             <content:encoded><![CDATA[20.09.05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[달로그 #19(LOONA LOG #19) 김립 #19 (Kim Lip #19) (LOOΠΔ LOG)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/IGsg/21</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/IGsg/21</guid>
-            <pubDate>Wed, 04 Aug 2021 22:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[20.08.30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이달의소녀탐정16 #ijk (LOONA TV Prequel16 #ijk) (LOOΠΔ TV Prequel)]]></title>
